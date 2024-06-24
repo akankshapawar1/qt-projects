@@ -1,0 +1,20 @@
+# ninja log v5
+0	59	1719248763154438304	calculator_autogen/timestamp	aaf45c241e65997
+0	59	1719248763154438304	calculator_autogen/mocs_compilation.cpp	aaf45c241e65997
+0	59	1719248763154438304	/Users/akanksha/Desktop/Stuff/Coding/qt/calculator/build/Qt_6_7_1_for_macOS-Debug/calculator_autogen/timestamp	aaf45c241e65997
+0	59	1719248763154438304	/Users/akanksha/Desktop/Stuff/Coding/qt/calculator/build/Qt_6_7_1_for_macOS-Debug/calculator_autogen/mocs_compilation.cpp	aaf45c241e65997
+59	89	1719248763190645559	CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.o	d1eb909d0624b72b
+59	821	1719248763919449545	CMakeFiles/calculator.dir/main.cpp.o	928e96bbba9ff78
+825	881	1719248763981489304	calculator	dcd7e484bdc9937b
+3	27	1719248790635273138	calculator_autogen/timestamp	aaf45c241e65997
+3	27	1719248790635273138	calculator_autogen/mocs_compilation.cpp	aaf45c241e65997
+3	27	1719248790635273138	/Users/akanksha/Desktop/Stuff/Coding/qt/calculator/build/Qt_6_7_1_for_macOS-Debug/calculator_autogen/timestamp	aaf45c241e65997
+3	27	1719248790635273138	/Users/akanksha/Desktop/Stuff/Coding/qt/calculator/build/Qt_6_7_1_for_macOS-Debug/calculator_autogen/mocs_compilation.cpp	aaf45c241e65997
+28	792	1719248791394571627	CMakeFiles/calculator.dir/main.cpp.o	928e96bbba9ff78
+792	838	1719248791444271718	calculator	dcd7e484bdc9937b
+4	28	1719248823372819477	calculator_autogen/timestamp	aaf45c241e65997
+4	28	1719248823372819477	calculator_autogen/mocs_compilation.cpp	aaf45c241e65997
+4	28	1719248823372819477	/Users/akanksha/Desktop/Stuff/Coding/qt/calculator/build/Qt_6_7_1_for_macOS-Debug/calculator_autogen/timestamp	aaf45c241e65997
+4	28	1719248823372819477	/Users/akanksha/Desktop/Stuff/Coding/qt/calculator/build/Qt_6_7_1_for_macOS-Debug/calculator_autogen/mocs_compilation.cpp	aaf45c241e65997
+28	796	1719248824136362718	CMakeFiles/calculator.dir/main.cpp.o	928e96bbba9ff78
+797	843	1719248824186109351	calculator	dcd7e484bdc9937b
