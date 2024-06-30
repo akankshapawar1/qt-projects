@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7c8f8d260056bb04d40e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NotepadApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "NotepadApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NotepadApp-Debug-7912641bf9b137d88629.json",
+					"name" : "NotepadApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NotepadApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NotepadApp_autogen-Debug-7d36a8d71cc17cfcdadf.json",
+					"name" : "NotepadApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NotepadApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NotepadApp_autogen_timestamp_deps-Debug-36348966cfc3f76c3f6b.json",
+					"name" : "NotepadApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/akanksha/Desktop/Stuff/Coding/qt/NotepadApp/build/Qt_6_7_1_for_macOS-Debug",
+		"source" : "/Users/akanksha/Desktop/Stuff/Coding/qt/NotepadApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

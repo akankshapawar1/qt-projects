@@ -1,0 +1,16 @@
+# ninja log v5
+0	396	1719419998124154622	firstWidget_autogen/timestamp	5f0eaa93aab1e201
+0	396	1719419998124154622	firstWidget_autogen/mocs_compilation.cpp	5f0eaa93aab1e201
+0	396	1719419998124154622	/Users/akanksha/Desktop/Stuff/Coding/qt/firstWidget/build/Qt_6_7_1_for_macOS-Debug/firstWidget_autogen/timestamp	5f0eaa93aab1e201
+0	396	1719419998124154622	/Users/akanksha/Desktop/Stuff/Coding/qt/firstWidget/build/Qt_6_7_1_for_macOS-Debug/firstWidget_autogen/mocs_compilation.cpp	5f0eaa93aab1e201
+396	1685	1719419999409708322	CMakeFiles/firstWidget.dir/firstWidget_autogen/mocs_compilation.cpp.o	ee1b202288be4cea
+396	1697	1719419999409705281	CMakeFiles/firstWidget.dir/main.cpp.o	c66784db48fd5236
+396	1701	1719419999428662468	CMakeFiles/firstWidget.dir/mainwindow.cpp.o	cbbc9302457950ca
+1701	1989	1719419999721256320	firstWidget.app/Contents/MacOS/firstWidget	31cf9c6ef09b01a2
+7	112	1719420443767188679	firstWidget_autogen/timestamp	5f0eaa93aab1e201
+7	112	1719420443767188679	firstWidget_autogen/mocs_compilation.cpp	5f0eaa93aab1e201
+7	112	1719420443767188679	/Users/akanksha/Desktop/Stuff/Coding/qt/firstWidget/build/Qt_6_7_1_for_macOS-Debug/firstWidget_autogen/timestamp	5f0eaa93aab1e201
+7	112	1719420443767188679	/Users/akanksha/Desktop/Stuff/Coding/qt/firstWidget/build/Qt_6_7_1_for_macOS-Debug/firstWidget_autogen/mocs_compilation.cpp	5f0eaa93aab1e201
+115	1637	1719420445283199249	CMakeFiles/firstWidget.dir/main.cpp.o	c66784db48fd5236
+115	1639	1719420445285266335	CMakeFiles/firstWidget.dir/mainwindow.cpp.o	cbbc9302457950ca
+1639	1866	1719420445517248498	firstWidget.app/Contents/MacOS/firstWidget	31cf9c6ef09b01a2
